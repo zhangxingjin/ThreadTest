@@ -11,5 +11,10 @@ public class Test {
 		
 		char [] ch = new char[]{'a','b','c'};
 		System.out.println(ch);
+		
+		System.out.println("修改了。。。");
+		System.out.println("修改了。。。");
+		System.out.println("修改了。。。");
+		System.out.println("修改了。。。");
 	}
 }
